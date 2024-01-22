@@ -12,7 +12,7 @@ func GetMenues() gin.HandlerFunc {
 
 func GetMenu() gin.HandlerFunc {
 	return func(ctx *gin.Context) {
-
+		
 	}
 }
 
